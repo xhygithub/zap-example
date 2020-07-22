@@ -1,0 +1,19 @@
+{
+  "name": "zap-example",
+  "version": "1.0.0",
+  "description": "zap example, how to active scan the target application to find the security vulnerability",
+  "main": "index.js",
+  "module": "main.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Haiyan",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "zaproxy": "^1.0.1"
+  },
+  "type": "module",
+  "devDependencies": {},
+  "keywords": []
+}

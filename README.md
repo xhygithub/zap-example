@@ -27,3 +27,9 @@ npm install zaproxy
 ```
 npm test
 ``` 
+
+### generate html report
+
+visit http://localhost:8080/UI/core/other/htmlreport/, then input api-key to see the report
+
+![html-report](./html-report.png)
